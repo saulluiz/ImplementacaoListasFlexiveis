@@ -1,0 +1,14 @@
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\Exercicio TAD FLEX LISTA\bin\Debug\net8.0\Exercicio TAD FLEX LISTA.exe
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\Exercicio TAD FLEX LISTA\bin\Debug\net8.0\Exercicio TAD FLEX LISTA.deps.json
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\Exercicio TAD FLEX LISTA\bin\Debug\net8.0\Exercicio TAD FLEX LISTA.runtimeconfig.json
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\Exercicio TAD FLEX LISTA\bin\Debug\net8.0\Exercicio TAD FLEX LISTA.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\Exercicio TAD FLEX LISTA\bin\Debug\net8.0\Exercicio TAD FLEX LISTA.pdb
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\Exercicio TAD FLEX LISTA\obj\Debug\net8.0\Exercicio TAD FLEX LISTA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\Exercicio TAD FLEX LISTA\obj\Debug\net8.0\Exercicio TAD FLEX LISTA.AssemblyInfoInputs.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\Exercicio TAD FLEX LISTA\obj\Debug\net8.0\Exercicio TAD FLEX LISTA.AssemblyInfo.cs
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\Exercicio TAD FLEX LISTA\obj\Debug\net8.0\Exercicio TAD FLEX LISTA.csproj.CoreCompileInputs.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\Exercicio TAD FLEX LISTA\obj\Debug\net8.0\Exercicio TAD FLEX LISTA.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\Exercicio TAD FLEX LISTA\obj\Debug\net8.0\refint\Exercicio TAD FLEX LISTA.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\Exercicio TAD FLEX LISTA\obj\Debug\net8.0\Exercicio TAD FLEX LISTA.pdb
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\Exercicio TAD FLEX LISTA\obj\Debug\net8.0\Exercicio TAD FLEX LISTA.genruntimeconfig.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\Exercicio TAD FLEX LISTA\obj\Debug\net8.0\ref\Exercicio TAD FLEX LISTA.dll
